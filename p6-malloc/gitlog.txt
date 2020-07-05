@@ -1,0 +1,2 @@
+We finished the project before the git requirement was introduced. 
+We used our own private repo, which was at no point made public or shared with anyone. 
